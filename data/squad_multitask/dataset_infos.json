@@ -1,0 +1,104 @@
+{
+    "prepend_qg_format":{
+       "description":"Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.\n",
+       "citation":"@article{2016arXiv160605250R,\n       author = {{Rajpurkar}, Pranav and {Zhang}, Jian and {Lopyrev},\n                 Konstantin and {Liang}, Percy},\n        title = \"{SQuAD: 100,000+ Questions for Machine Comprehension of Text}\",\n      journal = {arXiv e-prints},\n         year = 2016,\n          eid = {arXiv:1606.05250},\n        pages = {arXiv:1606.05250},\narchivePrefix = {arXiv},\n       eprint = {1606.05250},\n}\n",
+       "homepage":"https://rajpurkar.github.io/SQuAD-explorer/",
+       "license":"",
+       "features":{
+          "source_text":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          },
+          "target_text":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          },
+          "task":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          }
+       },
+       "supervised_keys":null,
+       "builder_name":"squad_multitask",
+       "config_name":"prepend_qg_format",
+       "version":{
+          "version_str":"1.0.0",
+          "description":"New split API (https://tensorflow.org/datasets/splits)",
+          "nlp_version_to_prepare":null,
+          "major":1,
+          "minor":0,
+          "patch":0
+       }
+    },
+    "highlight_qg_format":{
+       "description":"Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.\n",
+       "citation":"@article{2016arXiv160605250R,\n       author = {{Rajpurkar}, Pranav and {Zhang}, Jian and {Lopyrev},\n                 Konstantin and {Liang}, Percy},\n        title = \"{SQuAD: 100,000+ Questions for Machine Comprehension of Text}\",\n      journal = {arXiv e-prints},\n         year = 2016,\n          eid = {arXiv:1606.05250},\n        pages = {arXiv:1606.05250},\narchivePrefix = {arXiv},\n       eprint = {1606.05250},\n}\n",
+       "homepage":"https://rajpurkar.github.io/SQuAD-explorer/",
+       "license":"",
+       "features":{
+          "source_text":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          },
+          "target_text":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          },
+          "task":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          }
+       },
+       "supervised_keys":null,
+       "builder_name":"squad_multitask",
+       "config_name":"highlight_qg_format",
+       "version":{
+          "version_str":"1.0.0",
+          "description":"New split API (https://tensorflow.org/datasets/splits)",
+          "nlp_version_to_prepare":null,
+          "major":1,
+          "minor":0,
+          "patch":0
+       }
+    },
+    "prepend_highlight_qg_format":{
+       "description":"Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.\n",
+       "citation":"@article{2016arXiv160605250R,\n       author = {{Rajpurkar}, Pranav and {Zhang}, Jian and {Lopyrev},\n                 Konstantin and {Liang}, Percy},\n        title = \"{SQuAD: 100,000+ Questions for Machine Comprehension of Text}\",\n      journal = {arXiv e-prints},\n         year = 2016,\n          eid = {arXiv:1606.05250},\n        pages = {arXiv:1606.05250},\narchivePrefix = {arXiv},\n       eprint = {1606.05250},\n}\n",
+       "homepage":"https://rajpurkar.github.io/SQuAD-explorer/",
+       "license":"",
+       "features":{
+          "source_text":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          },
+          "target_text":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          },
+          "task":{
+             "dtype":"string",
+             "id":null,
+             "_type":"Value"
+          }
+       },
+       "supervised_keys":null,
+       "builder_name":"squad_multitask",
+       "config_name":"prepend_highlight_qg_format",
+       "version":{
+          "version_str":"1.0.0",
+          "description":"New split API (https://tensorflow.org/datasets/splits)",
+          "nlp_version_to_prepare":null,
+          "major":1,
+          "minor":0,
+          "patch":0
+       }
+    }
+ }
